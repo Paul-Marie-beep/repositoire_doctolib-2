@@ -1,5 +1,9 @@
 # README
 
+Ce que j'ai fait, aucune bête ne l'aurait fait
+
+Une base de données qui permet aux médecins de prendre rendez-vous avec des patients.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
